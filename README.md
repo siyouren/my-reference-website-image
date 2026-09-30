@@ -4,7 +4,7 @@
 
 ## 📖 关于原项目
 
-原项目 [Reference](https://github.com/jaywcjlove/reference) 是由 [王楚江 (jaywcjlove)](https://github.com/jaywcjlove) 开发的一款为开发者提供快速参考备忘清单的开源知识库。它涵盖了 JavaScript、Docker、Linux、C++ 等大量技术栈的速查表，是日常开发中非常实用的工具。
+原项目 [Reference](https://github.com/jaywcjlove/reference) 是由 [小弟调调™ (jaywcjlove)](https://github.com/jaywcjlove) 开发的一款为开发者提供快速参考备忘清单的开源知识库。它涵盖了 JavaScript、Docker、Linux、C++ 等大量技术栈的速查表，是日常开发中非常实用的工具。
 
 原作者对镜像站的部署持开放和支持态度，特此向原作者的辛勤付出致敬！
 
